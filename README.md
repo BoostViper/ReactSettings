@@ -1,0 +1,2 @@
+# ReactSettings
+React basic settings
